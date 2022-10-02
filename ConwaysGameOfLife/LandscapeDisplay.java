@@ -1,4 +1,3 @@
-package CS231.hsguwn25Project02;
 
 /*
   Originally written by Bruce A. Maxwell a long time ago.
