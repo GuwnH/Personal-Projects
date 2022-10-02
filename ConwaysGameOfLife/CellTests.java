@@ -1,5 +1,3 @@
-package CS231.hsguwn25Project02;
-
 /*
 file name:      CellTests.java
 Authors:        Max Bender & Naser Al Madi
