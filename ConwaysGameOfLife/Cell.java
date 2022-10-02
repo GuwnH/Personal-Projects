@@ -6,8 +6,6 @@ Project02
 Course: CS231 B
 **/
 
-package CS231.hsguwn25Project02;
-
 import java.util.ArrayList;
 
 public class Cell {
